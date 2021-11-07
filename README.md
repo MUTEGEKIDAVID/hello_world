@@ -1,2 +1,5 @@
-# hello_world
-this is to welcome you to github
+include<stdio.h>
+int main(){
+printf("hello world");
+return 0;
+}
